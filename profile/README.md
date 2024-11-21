@@ -1,7 +1,8 @@
 ## schoolnest
 
 ### hello
-we love schoolcentral.org
+we love ~~schoolcentral.org~~ schoolnest.org
+
 
 <!--
 
